@@ -154,6 +154,7 @@
   (speaker)
   (aspect-native)
   (button-music)
+  (button-shop)
   (button-flava)
   (cheat-toggle)
   (monitor)
