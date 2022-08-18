@@ -10,6 +10,7 @@
 
 ;; The "perm" data is saved to the memory card.
 
+(define *shop-count* 0)
 
 ;;;;;;;;;;;;;;;;;;
 ;; border plane
@@ -373,6 +374,7 @@
        )
 
      ;; increment our current money count
+     (+! *shop-count* amount)
      (+! (-> obj money) amount)
      )
     (('fuel-cell)
