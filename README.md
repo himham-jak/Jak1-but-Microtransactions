@@ -2,3 +2,6 @@ You start out with no movement options other than walk and swim. As you collect 
 
 Link to Launcher:
 https://github.com/himham-jak/Jak1-but-Microtransactions/releases/download/Launcher/OpenGoal_with_Microtransactions.exe
+
+Like this mod and want to see more like it? Consider donating to my KO-FI.
+https://ko-fi.com/himhamrex
