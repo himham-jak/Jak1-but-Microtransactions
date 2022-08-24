@@ -5,3 +5,5 @@ https://github.com/himham-jak/Jak1-but-Microtransactions/releases/download/Launc
 
 Like this mod and want to see more like it? Consider donating to my KO-FI.
 https://ko-fi.com/himhamrex
+
+If you have an issue with the launcher, you can download any release version from the right side of this page and follow the instructions on the main OpenGoal repository here: https://github.com/open-goal/jak-project
